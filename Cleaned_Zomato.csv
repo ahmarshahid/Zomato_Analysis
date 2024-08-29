@@ -1,0 +1,149 @@
+name,online_order,book_table,rate,votes,approx_cost(for two people),listed_in(type)
+Jalsa,Online,Yes,4.1,775,800,Buffet
+Spice Elephant,Online,No,4.1,787,800,Buffet
+San Churro Cafe,Online,No,3.8,918,800,Buffet
+Addhuri Udupi Bhojana,Offline,No,3.7,88,300,Buffet
+Grand Village,Offline,No,3.8,166,600,Buffet
+Timepass Dinner,Online,No,3.8,286,600,Buffet
+Rosewood International Hotel - Bar & Restaurant,Offline,No,3.6,8,800,Buffet
+Onesta,Online,Yes,4.6,2556,600,Cafes
+Penthouse Cafe,Online,No,4.0,324,700,other
+Smacznego,Online,No,4.2,504,550,Cafes
+Village Café,Online,No,4.1,402,500,Cafes
+Cafe Shuffle,Online,Yes,4.2,150,600,Cafes
+The Coffee Shack,Online,Yes,4.2,164,500,Cafes
+Caf-Eleven,Offline,No,4.0,424,450,Cafes
+San Churro Cafe,Online,No,3.8,918,800,Cafes
+Cafe Vivacity,Online,No,3.8,90,650,Cafes
+Catch-up-ino,Online,No,3.9,133,800,Cafes
+Kirthi's Biryani,Online,No,3.8,144,700,Cafes
+T3H Cafe,Offline,No,3.9,93,300,Cafes
+360 Atoms Restaurant And Cafe,Online,No,3.1,13,400,Cafes
+The Vintage Cafe,Online,No,3.0,62,400,Cafes
+Woodee Pizza,Online,No,3.7,180,500,Cafes
+Cafe Coffee Day,Offline,No,3.6,28,900,Cafes
+My Tea House,Online,No,3.6,62,600,Cafes
+Hide Out Cafe,Offline,No,3.7,31,300,Cafes
+CAFE NOVA,Offline,No,3.2,11,600,Cafes
+Coffee Tindi,Online,No,3.8,75,200,Cafes
+Sea Green Cafe,Offline,No,3.3,4,500,Cafes
+Cuppa,Offline,No,3.3,23,550,Cafes
+Srinathji's Cafe,Offline,No,3.8,148,550,Cafes
+Redberrys,Online,No,4.0,219,600,Cafes
+Foodiction,Online,No,2.8,506,500,other
+Sweet Truth,Online,No,3.9,35,500,Dining
+Ovenstory Pizza,Online,No,3.9,172,750,Dining
+Faasos,Online,No,4.2,415,500,other
+Behrouz Biryani,Online,No,3.9,230,650,Dining
+Fast And Fresh,Online,No,2.8,91,400,Dining
+Szechuan Dragon,Online,No,4.2,1647,600,Dining
+Empire Restaurant,Online,No,4.4,4884,750,other
+Maruthi Davangere Benne Dosa,Online,No,4.0,17,150,Dining
+Chaatimes,Online,No,3.8,133,200,Dining
+Havyaka Mess,Offline,No,3.9,28,300,Dining
+McDonald's,Online,No,3.9,286,500,Dining
+Domino's Pizza,Online,No,3.9,540,800,Dining
+Onesta,Online,Yes,4.6,2556,600,other
+Hotboxit,Offline,No,3.8,36,400,Dining
+Kitchen Garden,Online,No,3.6,244,300,Dining
+Recipe,Online,No,4.0,804,450,Dining
+Beijing Bites,Online,No,3.7,679,850,Dining
+Tasty Bytes,Online,No,3.1,245,300,Dining
+Petoo,Offline,No,3.7,21,450,Dining
+Shree Cool Point,Online,No,4.1,28,150,Dining
+Corner House Ice Cream,Offline,No,4.3,345,400,Dining
+Biryanis And More,Online,No,4.0,618,750,Dining
+Roving Feast,Offline,No,4.0,1047,450,Dining
+FreshMenu,Online,No,3.9,627,450,Dining
+Banashankari Donne Biriyani,Online,No,3.8,104,300,Dining
+Wamama,Online,Yes,4.2,354,800,other
+Five Star Chicken,Offline,No,3.6,55,200,Dining
+XO Belgian Waffle,Online,No,3.7,17,400,Dining
+Peppy Peppers,Offline,No,4.2,244,800,other
+Goa 0 Km,Online,Yes,3.6,163,800,Dining
+Chinese Kitchen,Online,No,3.8,58,150,Dining
+Jeet Restaurant,Offline,Yes,4.0,808,850,Dining
+Cake of the Day,Offline,No,3.7,78,150,Dining
+Kabab Magic,Online,No,4.1,1720,400,Dining
+Namma Brahmin's Idli,Online,No,3.6,34,100,Dining
+Gustoes Beer House,Offline,No,4.1,868,700,Dining
+Sugar Rush,Offline,No,3.8,39,300,Dining
+Burger King,Online,No,3.2,71,600,Dining
+The Good Bowl,Online,No,3.6,6,500,Dining
+The Biryani Cafe,Offline,No,4.1,520,300,Dining
+Spicy Tandoor,Offline,No,4.1,0,150,Dining
+LSD Cafe,Offline,No,2.9,84,700,other
+Rolls On Wheels,Offline,No,3.6,299,300,Dining
+Om Sri Vinayaka Chats,Offline,No,3.6,0,500,Dining
+Sri Guru Kottureshwara Davangere Benne Dosa,Online,No,4.1,558,150,Dining
+Devanna Dum Biriyani Centre,Online,No,3.6,28,300,Dining
+Kolbeh,Offline,No,3.7,22,500,Dining
+Upahar Sagar,Offline,No,3.8,39,350,Dining
+Kadalu Sea Food Restaurant,Online,No,3.8,153,500,Dining
+Frozen Bottle,Online,No,4.2,146,400,Dining
+Parimala Sweets,Offline,No,3.5,14,200,Dining
+Vaishali Deluxe,Offline,No,3.8,42,700,Dining
+Chill Out,Offline,No,3.8,0,100,Dining
+The Big O Bakes,Offline,No,4.0,66,300,Dining
+Meghana Foods,Online,No,4.4,4401,600,Dining
+Krishna Sagar,Offline,No,3.5,31,200,Dining
+Dessert Rose,Offline,No,3.5,7,500,Dining
+Chickpet Donne Biryani House,Offline,No,3.7,21,250,Dining
+Me And My Cake,Offline,No,3.7,0,500,Dining
+Sunsadm,Offline,No,3.7,0,400,Dining
+Annapooraneshwari Mess,Offline,No,3.7,0,200,Dining
+Thanco's Natural Ice Creams,Offline,No,3.2,9,300,Dining
+Nandhini Deluxe,Offline,No,2.6,283,600,Dining
+Vi Ra's Bar and Restaurant,Offline,No,3.3,62,800,Dining
+Kaggis,Offline,No,3.8,64,250,Dining
+Ayda Persian Kitchen,Offline,No,3.7,39,950,Dining
+Chatar Patar,Offline,No,3.7,65,300,Dining
+Polar Bear,Online,No,3.8,71,400,Dining
+Kidambi's Kitchen,Offline,No,3.5,52,300,Dining
+Mane Thindi,Offline,No,3.7,130,200,Dining
+Kotian Karavali Restaurant,Offline,No,3.5,10,300,Dining
+Floured-Baked With Love,Offline,No,3.8,45,400,Dining
+CAFE NOVA,Offline,No,3.2,11,600,Dining
+Cakes & Slices,Offline,No,3.5,13,300,Dining
+Spice 9,Offline,No,3.4,8,300,Dining
+Coffee Shopee,Offline,No,3.4,0,250,Dining
+Naveen Kabab & Biriyani Mane,Offline,No,3.2,9,300,Dining
+Katriguppe Donne Biryani,Offline,No,3.2,4,300,Dining
+Hari Super Sandwich,Offline,No,3.2,0,200,Dining
+Atithi Point Ande Ka Funda,Offline,No,3.1,29,150,Dining
+Just Bake,Offline,No,3.4,8,400,Dining
+Dharwad Line Bazaar Mishra Pedha,Offline,No,3.4,0,150,Dining
+Cake Bite,Offline,No,3.4,0,300,Dining
+Aarush's Food Plaza,Offline,No,3.4,0,200,Dining
+Wood Stove,Offline,No,3.4,0,150,Dining
+Kulfi & More,Offline,No,3.4,0,150,Dining
+Kannadigas Karavali,Offline,No,3.4,0,250,Dining
+K27 - The Pub,Offline,No,3.1,30,900,Dining
+Bengaluru Coffee House,Online,No,4.1,201,300,Dining
+New Mangalore Lunch Home,Offline,No,3.3,7,200,Dining
+Coffee Bytes,Offline,No,3.1,6,100,Dining
+Parjanya Chat Zone,Offline,No,3.3,17,200,Dining
+Kwality Wall's Swirl's Happiness Station,Offline,No,2.9,25,200,Dining
+Soms Kitchen & Bakes,Offline,No,2.9,0,400,Dining
+Banashankari Nati Style,Offline,No,2.9,0,350,Dining
+Ruchi Maayaka,Offline,No,3.3,8,100,Dining
+Mohitesh Hut Roll,Offline,No,3.3,0,150,Dining
+Sri Basaveshwar Jolada Rotti Oota,Offline,No,3.4,0,150,Dining
+Roll Magic Fast Food,Offline,No,3.4,0,200,Dining
+Foodlieious Multi Cuisine,Offline,No,3.4,0,100,Dining
+Thanishka Nati And Karavali Style,Offline,No,3.1,0,400,Dining
+Swathi Cool Point,Offline,No,4.1,0,200,Dining
+Kaumudis Juoice,Offline,No,3.3,0,150,Dining
+Amma - Manae,Offline,No,3.1,0,400,Dining
+Sri Sai Tiffannies,Offline,No,3.3,0,150,Dining
+Hotel Andhra Speices,Offline,No,2.9,0,250,Dining
+Sri Murari Family Restaurant,Offline,No,2.9,0,250,Dining
+Aramane Donne Biriyani,Offline,No,2.9,0,150,Dining
+Darkolates,Offline,No,3.3,0,200,Dining
+Swaada Healthy Kitchen,Offline,No,3.3,0,350,Dining
+Gawdaru Mane Beriyani,Offline,No,3.3,0,300,Dining
+Melting Melodies,Offline,No,3.3,0,100,Dining
+New Indraprasta,Offline,No,3.3,0,150,Dining
+Anna Kuteera,Online,No,4.0,771,450,Dining
+Darbar,Offline,No,3.0,98,800,Dining
+Vijayalakshmi,Online,No,3.9,47,200,Dining
